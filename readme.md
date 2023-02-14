@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">Practicing dentist that fell in love with computer science</h3>
 
 - 🔭 I’m currently working on [Markov Twitter](https://markovtwitter.com/)
 
+- I'm a practicing dentist 🦷🪥 that fell in love with algorithms and data structures
+
+- I've completed a web dev bootcamp
+
 - 🌱 I’m currently learning **Kotlin/Jetpack Compose, natural language processing**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stephen-w-choo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephen-w-choo/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/stephen-w-choo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/stephen-w-choo/" height="30" width="40" /></a>
