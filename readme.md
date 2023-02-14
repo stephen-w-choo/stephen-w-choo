@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on [Markov Twitter](https://markovtwitter.com/)
 
-- I'm a practicing dentist 🦷🪥 that fell in love with algorithms and data structures
+- 🦷 I'm a practicing dentist that fell in love with algorithms and data structures
 
-- I've completed a web dev bootcamp
-
-- 🌱 I’m currently learning **Kotlin/Jetpack Compose, natural language processing**
+- 🌱 I've completed a web dev bootcamp, and I’m now currently learning **Kotlin/Jetpack Compose, natural language processing**
 
 <h3 align="left">You can find me on:</h3>
 <p align="left">
